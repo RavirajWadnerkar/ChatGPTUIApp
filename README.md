@@ -17,14 +17,14 @@
 
 Main Activity:
 
-<img width="215" alt="image" src="">
+<img width="215" alt="image" src="https://github.com/RavirajWadnerkar/ChatGPTUIApp/assets/47893967/030406dd-1537-4973-b466-0f1ef07d9ac7">
 
 Entering a prompt: 
 
-<img width="235" alt="image" src="">
+<img width="235" alt="image" src="https://github.com/RavirajWadnerkar/ChatGPTUIApp/assets/47893967/fff162d8-894f-4b56-bca7-626324324928">
 
 Response is displayed:
 
-<img width="236" alt="image" src="">
+<img width="236" alt="image" src="https://github.com/RavirajWadnerkar/ChatGPTUIApp/assets/47893967/f25a40e8-c0c8-48e1-af95-2d8c763d0169">
 
 

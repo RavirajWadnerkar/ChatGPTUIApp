@@ -1,0 +1,4 @@
+#Sun Apr 14 19:59:30 PDT 2024
+base.0=D\:\\RAVI\\SJSU\\Ravi\\Sem-2\\Smartphone Application\\ChatGPTUIApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
